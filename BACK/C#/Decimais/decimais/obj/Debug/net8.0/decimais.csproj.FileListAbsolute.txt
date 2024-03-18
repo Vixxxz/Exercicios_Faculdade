@@ -1,0 +1,14 @@
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\bin\Debug\net8.0\decimais.exe
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\bin\Debug\net8.0\decimais.deps.json
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\bin\Debug\net8.0\decimais.runtimeconfig.json
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\bin\Debug\net8.0\decimais.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\bin\Debug\net8.0\decimais.pdb
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\decimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\decimais.AssemblyInfoInputs.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\decimais.AssemblyInfo.cs
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\decimais.csproj.CoreCompileInputs.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\decimais.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\refint\decimais.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\decimais.pdb
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\decimais.genruntimeconfig.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Decimais\decimais\obj\Debug\net8.0\ref\decimais.dll

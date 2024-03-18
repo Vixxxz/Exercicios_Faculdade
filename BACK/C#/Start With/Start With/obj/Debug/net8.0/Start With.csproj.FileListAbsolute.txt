@@ -1,0 +1,14 @@
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\bin\Debug\net8.0\Start With.exe
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\bin\Debug\net8.0\Start With.deps.json
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\bin\Debug\net8.0\Start With.runtimeconfig.json
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\bin\Debug\net8.0\Start With.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\bin\Debug\net8.0\Start With.pdb
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\Start With.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\Start With.AssemblyInfoInputs.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\Start With.AssemblyInfo.cs
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\Start With.csproj.CoreCompileInputs.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\Start With.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\refint\Start With.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\Start With.pdb
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\Start With.genruntimeconfig.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Start With\Start With\obj\Debug\net8.0\ref\Start With.dll

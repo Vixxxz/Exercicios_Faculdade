@@ -1,0 +1,14 @@
+*{
+    background-color: whitesmoke;
+}
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    text-decoration: none;
+}

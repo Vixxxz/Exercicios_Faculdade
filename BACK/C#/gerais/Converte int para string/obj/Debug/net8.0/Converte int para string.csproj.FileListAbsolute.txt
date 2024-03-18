@@ -1,0 +1,14 @@
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\bin\Debug\net8.0\Converte int para string.exe
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\bin\Debug\net8.0\Converte int para string.deps.json
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\bin\Debug\net8.0\Converte int para string.runtimeconfig.json
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\bin\Debug\net8.0\Converte int para string.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\bin\Debug\net8.0\Converte int para string.pdb
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\Converte int para string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\Converte int para string.AssemblyInfoInputs.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\Converte int para string.AssemblyInfo.cs
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\Converte int para string.csproj.CoreCompileInputs.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\Converte int para string.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\refint\Converte int para string.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\Converte int para string.pdb
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\Converte int para string.genruntimeconfig.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\Converte int para string\obj\Debug\net8.0\ref\Converte int para string.dll

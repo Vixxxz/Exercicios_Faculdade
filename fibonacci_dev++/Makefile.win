@@ -1,0 +1,30 @@
+# Project: fibonacci
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = fibonacci.o $(RES)
+LINKOBJ  = fibonacci.o $(RES)
+LIBS =  -L"E:/Apps/Dev-Cpp/lib"  
+INCS =  -I"E:/Apps/Dev-Cpp/include" 
+CXXINCS =  -I"E:/Apps/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"E:/Apps/Dev-Cpp/include/c++/3.4.2/backward"  -I"E:/Apps/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"E:/Apps/Dev-Cpp/include/c++/3.4.2"  -I"E:/Apps/Dev-Cpp/include" 
+BIN  = fibonacci.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before fibonacci.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "fibonacci.exe" $(LIBS)
+
+fibonacci.o: fibonacci.cpp
+	$(CPP) -c fibonacci.cpp -o fibonacci.o $(CXXFLAGS)

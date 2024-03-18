@@ -1,0 +1,14 @@
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\somaMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\somaMultiplos.AssemblyInfoInputs.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\somaMultiplos.AssemblyInfo.cs
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\somaMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\bin\Debug\net8.0\somaMultiplos.exe
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\bin\Debug\net8.0\somaMultiplos.deps.json
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\bin\Debug\net8.0\somaMultiplos.runtimeconfig.json
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\bin\Debug\net8.0\somaMultiplos.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\bin\Debug\net8.0\somaMultiplos.pdb
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\somaMultiplos.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\refint\somaMultiplos.dll
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\somaMultiplos.pdb
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\somaMultiplos.genruntimeconfig.cache
+C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\somaMultiplos\obj\Debug\net8.0\ref\somaMultiplos.dll

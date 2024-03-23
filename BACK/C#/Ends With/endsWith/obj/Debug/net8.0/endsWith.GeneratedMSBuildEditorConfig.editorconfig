@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = endsWith
-build_property.ProjectDir = C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\Ends With\endsWith\
+build_property.ProjectDir = C:\Users\rtsga\Exercicios_Faculdade\BACK\C#\Ends With\endsWith\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Decimais\\decimais\\decimais.csproj": {}
+    "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Decimais\\decimais\\decimais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Decimais\\decimais\\decimais.csproj": {
+    "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Decimais\\decimais\\decimais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Decimais\\decimais\\decimais.csproj",
+        "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Decimais\\decimais\\decimais.csproj",
         "projectName": "decimais",
-        "projectPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Decimais\\decimais\\decimais.csproj",
+        "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Decimais\\decimais\\decimais.csproj",
         "packagesPath": "C:\\Users\\rtsga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Decimais\\decimais\\obj\\",
+        "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Decimais\\decimais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rtsga\\AppData\\Roaming\\NuGet\\NuGet.Config"

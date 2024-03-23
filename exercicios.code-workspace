@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/Área de Trabalho/programas/exercicios"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"stdio.h": "c"
+		},
+		"dotnet.defaultSolution": "somaMultiplos.sln"
+	}
+}

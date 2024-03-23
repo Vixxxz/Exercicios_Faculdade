@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Start With\\Start With\\Start With.csproj": {}
+    "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Start With\\Start With\\Start With.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Start With\\Start With\\Start With.csproj": {
+    "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Start With\\Start With\\Start With.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Start With\\Start With\\Start With.csproj",
+        "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Start With\\Start With\\Start With.csproj",
         "projectName": "Start With",
-        "projectPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Start With\\Start With\\Start With.csproj",
+        "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Start With\\Start With\\Start With.csproj",
         "packagesPath": "C:\\Users\\rtsga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\Start With\\Start With\\obj\\",
+        "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Start With\\Start With\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rtsga\\AppData\\Roaming\\NuGet\\NuGet.Config"

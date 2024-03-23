@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\arrey Diff\\arrey Diff.csproj": {}
+    "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\make-valley\\make-valley.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\arrey Diff\\arrey Diff.csproj": {
+    "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\make-valley\\make-valley.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\arrey Diff\\arrey Diff.csproj",
-        "projectName": "arrey Diff",
-        "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\arrey Diff\\arrey Diff.csproj",
+        "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\make-valley\\make-valley.csproj",
+        "projectName": "make-valley",
+        "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\make-valley\\make-valley.csproj",
         "packagesPath": "C:\\Users\\rtsga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\arrey Diff\\obj\\",
+        "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\make-valley\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rtsga\\AppData\\Roaming\\NuGet\\NuGet.Config"

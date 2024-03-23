@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\gerais\\Converte int para string\\Converte int para string.csproj",
+      "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\Converte int para string\\Converte int para string.csproj",
       "projectName": "Converte int para string",
-      "projectPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\gerais\\Converte int para string\\Converte int para string.csproj",
+      "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\Converte int para string\\Converte int para string.csproj",
       "packagesPath": "C:\\Users\\rtsga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\gerais\\Converte int para string\\obj\\",
+      "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\Converte int para string\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rtsga\\AppData\\Roaming\\NuGet\\NuGet.Config"

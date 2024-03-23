@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\somaMultiplos\\somaMultiplos.csproj": {}
+    "C:\\Users\\rtsga\\Exercicios_Faculdade\\soma_multiplos\\somaMultiplos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\somaMultiplos\\somaMultiplos.csproj": {
+    "C:\\Users\\rtsga\\Exercicios_Faculdade\\soma_multiplos\\somaMultiplos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\somaMultiplos\\somaMultiplos.csproj",
+        "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\soma_multiplos\\somaMultiplos.csproj",
         "projectName": "somaMultiplos",
-        "projectPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\somaMultiplos\\somaMultiplos.csproj",
+        "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\soma_multiplos\\somaMultiplos.csproj",
         "packagesPath": "C:\\Users\\rtsga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\somaMultiplos\\obj\\",
+        "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\soma_multiplos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rtsga\\AppData\\Roaming\\NuGet\\NuGet.Config"

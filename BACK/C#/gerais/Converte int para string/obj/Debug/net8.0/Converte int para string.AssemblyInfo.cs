@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Converte int para string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcadd52547c31a40076ff268df1f0968a7dc6d44")]
 [assembly: System.Reflection.AssemblyProductAttribute("Converte int para string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Converte int para string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

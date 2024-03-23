@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = make_valley
-build_property.ProjectDir = C:\Users\rtsga\OneDrive\Área de Trabalho\programas\exercicios\ESTUDOS\BACK\C#\gerais\make-valley\
+build_property.ProjectDir = c:\Users\rtsga\Exercicios_Faculdade\BACK\C#\gerais\make-valley\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

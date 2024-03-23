@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\exercicios gerais\\arrey Diff\\arrey Diff.csproj",
+      "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\arrey Diff\\arrey Diff.csproj",
       "projectName": "arrey Diff",
-      "projectPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\exercicios gerais\\arrey Diff\\arrey Diff.csproj",
+      "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\arrey Diff\\arrey Diff.csproj",
       "packagesPath": "C:\\Users\\rtsga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\exercicios gerais\\arrey Diff\\obj\\",
+      "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\gerais\\arrey Diff\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rtsga\\AppData\\Roaming\\NuGet\\NuGet.Config"

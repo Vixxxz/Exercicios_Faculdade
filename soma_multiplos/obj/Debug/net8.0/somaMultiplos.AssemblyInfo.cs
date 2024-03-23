@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("somaMultiplos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88e4b1239c3c5bf98f2d284aa3f8106d60fd9bca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcadd52547c31a40076ff268df1f0968a7dc6d44")]
 [assembly: System.Reflection.AssemblyProductAttribute("somaMultiplos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("somaMultiplos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

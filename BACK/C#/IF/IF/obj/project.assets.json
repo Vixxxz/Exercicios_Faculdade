@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\IF\\IF\\IF.csproj",
+      "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\IF\\IF\\IF.csproj",
       "projectName": "IF",
-      "projectPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\IF\\IF\\IF.csproj",
+      "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\IF\\IF\\IF.csproj",
       "packagesPath": "C:\\Users\\rtsga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rtsga\\OneDrive\\Área de Trabalho\\programas\\exercicios\\ESTUDOS\\BACK\\C#\\IF\\IF\\obj\\",
+      "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\IF\\IF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rtsga\\AppData\\Roaming\\NuGet\\NuGet.Config"

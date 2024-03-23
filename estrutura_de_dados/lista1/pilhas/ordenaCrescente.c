@@ -1,23 +1,20 @@
-/*Exercício 1. Ordenação crescente
-Crie um programa que usa duas pilhas A e B para ordenar uma sequência de n números dados
-pelo usuário. A ideia é organizar a pilha A de modo que nenhum item seja empilhado sobre outro
-menor (use a pilha B apenas para manobra) e, depois, descarregar e exibir os itens da pilha A*/
-
-//Devera ser exibido de forma crescente
-//Pilha A no fim ira receber os numeros ordenados de forma decrescente
-//Pilha B sera usada para fazer a ordenação
-
 #include <stdio.h>
 #include "pilha.h"
 
 void main ()
 {
-	int n, j[5], i = 0;
-	Pilha a = pilha(5);
-	Pilha b = pilha(5);
+	int n = 0, quantidade = 0, i = 0;
+	
+	printf("quantos numeros pretende inserir?");
+	scanf("%d", &quantidade);
+	
+	int j[quantidade];
+	Pilha a = pilha(quantidade);
+	Pilha b = pilha(quantidade);
+
 	printf("Digite a sequencia de numeros para serem exibidas de forma crescente\n");
 	
-	for (int z = 0; z < 5; z++)
+	for (int z = 0; z < quantidade; z++)
 	{
 		scanf("%d", &n);
 		empilha(n, a);
@@ -45,7 +42,7 @@ void main ()
 			empilha(j[z], a);
 		}
 	}while(!cheiap(b));
-	for(int z = 0; z < 5; z++)
+	for(int z = 0; z < quantidade; z++)
 	{
 		empilha(desempilha(b), a);
 	}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Start With\\Start With\\Start With.csproj",
-      "projectName": "Start With",
-      "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Start With\\Start With\\Start With.csproj",
+      "projectUniqueName": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Contains\\Contains\\Contains.csproj",
+      "projectName": "Contains",
+      "projectPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Contains\\Contains\\Contains.csproj",
       "packagesPath": "C:\\Users\\rtsga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Start With\\Start With\\obj\\",
+      "outputPath": "C:\\Users\\rtsga\\Exercicios_Faculdade\\BACK\\C#\\Contains\\Contains\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rtsga\\AppData\\Roaming\\NuGet\\NuGet.Config"

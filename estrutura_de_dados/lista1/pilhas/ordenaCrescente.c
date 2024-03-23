@@ -25,7 +25,7 @@ void main ()
 		empilha(desempilha(a), b);
 		while (!vaziap(a))
 		{
-			if (topo(a) < topo(b) && topo(b) || topo(a) == topo (b))
+			if (topo(a) < topo(b) || topo(a) == topo (b))
 			{
 				j[i] = desempilha(b);
 				i++;

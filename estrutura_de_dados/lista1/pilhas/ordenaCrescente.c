@@ -51,4 +51,6 @@ void main ()
 	{
 		printf("%d", desempilha(a));
 	}
+	destroip(&a);
+    destroip(&b);
 }

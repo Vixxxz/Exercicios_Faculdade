@@ -20,5 +20,5 @@ void hanoi(int n, char origem, char auxiliar, char destino)
 
 int main ()
 {
-    hanoi(2, 'A', 'B', 'c');
+    hanoi(3, 'A', 'B', 'c');
 }
